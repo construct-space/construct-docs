@@ -1,0 +1,4 @@
+name: construct-docs
+public: dist
+server: bp.construct.ninja
+type: static
